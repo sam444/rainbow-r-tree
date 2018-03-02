@@ -1,0 +1,53 @@
+{
+  "name": "ztree",
+  "description": "jquery tree plugin",
+  "version": "3.5.18",
+  "homepage": "http://www.ztree.me/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uooo/ztree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uooo/ztree/issues"
+  },
+  "main": "js/jquery.ztree.all-3.5.js",
+  "dist": {
+    "tarball": "http://repo.ebaotech.com:80/artifactory/api/npm/npm-all/ztree/-/ztree-3.5.18.tgz",
+    "shasum": "f46d0d527be2b91326e44e89a215ca34d97a2f31"
+  },
+  "dependencies": {
+    "jquery": ">=1.4.4"
+  },
+  "devDependencies": {
+    "del": "^2.0.0",
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-replace": "^0.5.4"
+  },
+  "keywords": [
+    "jquery",
+    "tree"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Zhang QiGang",
+      "email": "hunter.z@263.net",
+      "url": "http://www.ztree.me/"
+    }
+  ],
+  "directories": {},
+  "scripts": {},
+  "_from": "ztree@3.5.18",
+  "_npmVersion": "2.7.4",
+  "_npmUser": {
+    "name": "luqin",
+    "email": "luqin2006@163.com"
+  },
+  "_id": "ztree@3.5.18",
+  "gitHead": "2b8cda66dacfbbfcbc842d888c975c16242eeffc",
+  "_shasum": "f46d0d527be2b91326e44e89a215ca34d97a2f31",
+  "_nodeVersion": "0.12.2",
+  "_resolved": "http://repo.ebaotech.com:80/artifactory/api/npm/npm-all/ztree/-/ztree-3.5.18.tgz",
+  "readme": "ERROR: No README data found!"
+}
